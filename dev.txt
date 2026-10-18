@@ -1,0 +1,61 @@
+# 2025 年以来发布或在开发者社区广泛使用的科技名词
+Model Context Protocol
+MCP server
+MCP Inspector
+MCP Streamable HTTP
+MCP elicitation
+MCP sampling
+MCP roots
+MCP OAuth
+FastMCP
+MCP Python SDK
+MCP TypeScript SDK
+MCP C# SDK
+MCP Go SDK
+MCP Java SDK
+MCP Rust SDK
+MCP Apps
+A2A Protocol
+Agent2Agent
+A2A Python SDK
+A2A JavaScript SDK
+Agent Card
+Agentic RAG
+OpenAI Agents SDK
+Responses API
+Codex CLI
+Claude Code
+Gemini CLI
+Qwen Code
+Kimi CLI
+OpenCode
+OpenHands
+Cline
+Roo Code
+Kilo Code
+Trae
+Windsurf
+Cursor Background Agent
+Cursor Bugbot
+Jules
+Google ADK
+Agent Development Kit
+LangGraph Platform
+LangGraph Studio
+AG-UI
+CopilotKit
+Mastra
+Pydantic AI
+smolagents
+Browser Use
+Stagehand
+Vercel AI SDK 5
+TanStack Start
+React Router 7
+React 19
+Next.js 15
+Next.js 16
+Vite 7
+Rolldown
+uv
+llama.cpp-omni

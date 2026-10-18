@@ -1,0 +1,26 @@
+name: Validate and release wordpacks
+on:
+  push:
+    branches: [main]
+  pull_request:
+permissions:
+  contents: read
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python validate.py
+      - name: Publish validated files
+        if: github.event_name == 'push'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          tag="v$(date -u +%Y%m%d-%H%M%S)"
+          gh release create "$tag" ai.txt dev.txt hardware.txt index.json --title "$tag" --notes "Validated technology wordpacks. CC0 1.0."
+
