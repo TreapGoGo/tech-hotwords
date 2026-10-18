@@ -1,0 +1,83 @@
+# AI 概念与创投话题；每行一个写法，来源与别称分组见 lexicon.tsv
+harness
+harness engineering
+驾驭工程
+human-in-the-loop
+人在回路
+AGI
+通用人工智能
+JEPA
+V-JEPA
+world model
+世界模型
+embodied AI
+具身智能
+VLA
+physical AI
+物理 AI
+AI factory
+AI 工厂
+agent
+智能体
+multi-agent
+多智能体
+subagent
+子智能体
+agentic coding
+智能体编程
+agentic engineering
+vibe coding
+氛围编程
+context engineering
+上下文工程
+prompt engineering
+提示词工程
+RAG
+检索增强生成
+GraphRAG
+function calling
+函数调用
+tool use
+工具调用
+prompt caching
+提示词缓存
+KV cache
+键值缓存
+MoE
+混合专家
+LLM
+大语言模型
+token
+词元
+context window
+上下文窗口
+hallucination
+幻觉
+prompt injection
+提示词注入
+chain of thought
+思维链
+RLHF
+LoRA
+speculative decoding
+后训练
+scaling laws
+规模化定律
+AI native
+AI 原生
+MVP
+PMF
+产品市场契合度
+GTM
+CAC
+获客成本
+LTV
+客户终身价值
+FDE
+前线部署工程师
+Product Hunt
+Y Combinator
+YC
+a16z
+种子轮
+投后估值

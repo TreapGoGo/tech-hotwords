@@ -22,5 +22,5 @@ jobs:
           GH_TOKEN: ${{ github.token }}
         run: |
           tag="v$(date -u +%Y%m%d-%H%M%S)"
-          gh release create "$tag" ai.txt dev.txt hardware.txt index.json --title "$tag" --notes "Validated technology wordpacks. CC0 1.0."
+          gh release create "$tag" ai.txt dev.txt hardware.txt topics.txt index.json lexicon.tsv sources.json --title "$tag" --notes "Source-backed bilingual root hotwords: AI, development, hardware, and topics. Word lists: CC0 1.0. Source pages retain their own licenses."
 

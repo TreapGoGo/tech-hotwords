@@ -1,0 +1,162 @@
+pack	canonical	aliases	sources
+ai	OpenAI		openai-models|baoyu-feed
+ai	ChatGPT		openai-models|baoyu-feed
+ai	GPT		openai-models|baoyu-feed
+ai	GPT-6 Astra		openai-models|qbit-gemini
+ai	GPT-6.1 Sol		openai-models
+ai	GPT-6 Luna		openai-models
+ai	GPT-Live		openai-models
+ai	Anthropic		anthropic|baoyu-amodei
+ai	Claude		anthropic|baoyu-feed
+ai	Claude Opus		anthropic|qbit-gemini
+ai	Claude Sonnet		anthropic
+ai	Claude Haiku		anthropic|anthropic-haiku
+ai	Claude Mythos		anthropic|qbit-gemini
+ai	Claude Fable		anthropic|qbit-gemini
+ai	Gemini		gemini|qbit-gemini
+ai	Gemini 4 Argon		gemini|qbit-gemini
+ai	Gemma		prompt-guide
+ai	Nano Banana		gemini|baoyu-karpathy
+ai	Veo		gemini
+ai	Lyria		gemini
+ai	DeepSeek	深度求索	deepseek
+ai	DeepSeek V4.1		deepseek|hf-trending
+ai	Qwen	千问	qwen
+ai	Qwen-Image		qwen
+ai	Wan	万相	qwen
+ai	GLM		glm
+ai	GLM-5.3		glm
+ai	MiniMax		minimax
+ai	MiniMax M3		minimax
+ai	MiniMax H3		minimax
+ai	Kimi		kimi
+ai	Kimi K3		kimi
+ai	MiniCPM		hf-trending
+ai	豆包		doubao
+ai	Grok		prompt-guide
+ai	Llama		prompt-guide|sglang
+ai	FLUX		hf-trending
+ai	LTX		hf-trending
+ai	Perplexity		baoyu-feed
+ai	NotebookLM		skills-community
+ai	Sam Altman		baoyu-sam
+ai	Dario Amodei		baoyu-amodei
+ai	Andrej Karpathy	Karpathy	baoyu-karpathy
+ai	Yann LeCun	杨立昆	jepa|jepa-cn
+ai	Jensen Huang	黄仁勋	baoyu-huang|nvidia|nvidia-en
+ai	梁文锋		qbit-deepseek
+dev	Codex		baoyu-feed|skills-community
+dev	Claude Code		anthropic|skills-community
+dev	Claude Cowork		anthropic|baoyu-startup
+dev	Claude Design		anthropic|baoyu-feed
+dev	OpenClaw	龙虾	openclaw|openclaw-cn
+dev	Hermes Agent		hermes|baoyu-hermes
+dev	ClawHub		openclaw|openclaw-cn
+dev	DeepSeek Harness		deepseek
+dev	Pi Coding Agent		openclaw|openclaw-cn
+dev	Cursor		agent-terms|skills-community
+dev	Windsurf		agent-terms
+dev	Trae		agent-terms
+dev	OpenCode		agent-terms|skills-community
+dev	Gemini CLI		skills-community
+dev	GitHub Copilot		agent-terms|skills-community
+dev	Cline		agent-terms
+dev	Devin		agent-terms
+dev	Lovable		agent-terms|baoyu-sam
+dev	Bolt		agent-terms
+dev	Antigravity		gemini|qbit-gemini
+dev	Dify		agent-terms|skills-community
+dev	n8n		agent-terms|skills-community
+dev	LangChain		agent-terms|harness-cn
+dev	LangGraph		agent-terms|harness-cn
+dev	CrewAI		harness-cn
+dev	Hugging Face		skills-community|hf-trending
+dev	Ollama		openclaw-cn
+dev	llama.cpp		llama-cpp
+dev	vLLM		vllm
+dev	SGLang		sglang
+dev	ComfyUI		hf-trending
+dev	GGUF		llama-cpp
+dev	MCP	模型上下文协议	mcp|agent-terms|baoyu-startup
+dev	MCP Server		mcp
+dev	MCP Client		mcp|mcp-architecture
+dev	MCP Apps		mcp
+dev	skill	Agent Skills|技能	skills|skills-community|agent-terms
+dev	uv		hermes
+dev	Vercel		skills-community|baoyu-karpathy
+dev	Supabase		skills-community
+dev	Obsidian		skills-community
+dev	Notion		skills-community|producthunt
+hardware	NVIDIA	英伟达	nvidia|baoyu-huang
+hardware	AMD		amd
+hardware	Intel	英特尔	intel
+hardware	Qualcomm	高通	qualcomm
+hardware	CUDA		llama-cpp|baoyu-huang
+hardware	ROCm		amd
+hardware	GPU		llama-cpp|nvidia
+hardware	NPU		sglang
+hardware	TPU		sglang|baoyu-huang
+hardware	HBM		rubin
+hardware	NVLink		rubin|blackwell
+hardware	Blackwell		blackwell|baoyu-huang
+hardware	Vera Rubin		rubin
+hardware	DGX Spark		blackwell|nvidia
+hardware	RTX Spark		nvidia
+hardware	RTX		nvidia
+hardware	Radeon		amd
+hardware	Ryzen	锐龙	amd
+hardware	EPYC	霄龙	amd
+hardware	Instinct		amd
+hardware	Snapdragon		llama-cpp
+hardware	Apple silicon		llama-cpp
+hardware	Jetson		nvidia
+hardware	Unitree	宇树|宇树科技	unitree|qbit-deepseek
+topics	harness		openclaw|harness-cn|skills-community
+topics	harness engineering	驾驭工程	harness-cn
+topics	human-in-the-loop	人在回路	agent-terms
+topics	AGI	通用人工智能	minimax
+topics	JEPA		jepa|jepa-cn
+topics	V-JEPA		jepa
+topics	world model	世界模型	qbit-robotics|nvidia-en
+topics	embodied AI	具身智能	qbit-robotics|unitree|habitat
+topics	VLA		qbit-robotics
+topics	physical AI	物理 AI	nvidia
+topics	AI factory	AI 工厂	nvidia|nvidia-en
+topics	agent	智能体	agent-terms|baoyu-feed
+topics	multi-agent	多智能体	agent-terms|baoyu-feed
+topics	subagent	子智能体	agent-terms
+topics	agentic coding	智能体编程	agent-terms|baoyu-startup
+topics	agentic engineering		baoyu-karpathy
+topics	vibe coding	氛围编程	agent-terms
+topics	context engineering	上下文工程	agent-terms|baoyu-feed
+topics	prompt engineering	提示词工程	harness-cn|prompt-guide
+topics	RAG	检索增强生成	prompt-guide|agent-terms
+topics	GraphRAG		openclaw-cn
+topics	function calling	函数调用	agent-terms
+topics	tool use	工具调用	agent-terms
+topics	prompt caching	提示词缓存	baoyu-hermes
+topics	KV cache	键值缓存	agent-terms
+topics	MoE	混合专家	agent-terms
+topics	LLM	大语言模型	agent-terms|prompt-guide
+topics	token	词元	agent-terms
+topics	context window	上下文窗口	agent-terms
+topics	hallucination	幻觉	agent-terms
+topics	prompt injection	提示词注入	agent-terms|prompt-guide
+topics	chain of thought	思维链	agent-terms
+topics	RLHF		agent-terms|vllm
+topics	LoRA		vllm
+topics	speculative decoding		vllm
+topics	后训练		baoyu-posttraining
+topics	scaling laws	规模化定律	baoyu-amodei
+topics	AI native	AI 原生	baoyu-startup|baoyu-feed
+topics	MVP		baoyu-startup
+topics	PMF	产品市场契合度	baoyu-startup
+topics	GTM		baoyu-startup|baoyu-sam
+topics	CAC	获客成本	baoyu-startup
+topics	LTV	客户终身价值	baoyu-startup
+topics	FDE	前线部署工程师	baoyu-fde
+topics	Product Hunt		producthunt|baoyu-startup
+topics	Y Combinator	YC	baoyu-sam
+topics	a16z		a16z
+topics	种子轮		qbit-deepseek
+topics	投后估值		qbit-deepseek

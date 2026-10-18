@@ -1,61 +1,47 @@
-# 2025 年以来发布或在开发者社区广泛使用的科技名词
-Model Context Protocol
-MCP server
-MCP Inspector
-MCP Streamable HTTP
-MCP elicitation
-MCP sampling
-MCP roots
-MCP OAuth
-FastMCP
-MCP Python SDK
-MCP TypeScript SDK
-MCP C# SDK
-MCP Go SDK
-MCP Java SDK
-MCP Rust SDK
-MCP Apps
-A2A Protocol
-Agent2Agent
-A2A Python SDK
-A2A JavaScript SDK
-Agent Card
-Agentic RAG
-OpenAI Agents SDK
-Responses API
-Codex CLI
+# 开发工具与协议；每行一个写法，来源与别称分组见 lexicon.tsv
+Codex
 Claude Code
-Gemini CLI
-Qwen Code
-Kimi CLI
-OpenCode
-OpenHands
-Cline
-Roo Code
-Kilo Code
-Trae
+Claude Cowork
+Claude Design
+OpenClaw
+龙虾
+Hermes Agent
+ClawHub
+DeepSeek Harness
+Pi Coding Agent
+Cursor
 Windsurf
-Cursor Background Agent
-Cursor Bugbot
-Jules
-Google ADK
-Agent Development Kit
-LangGraph Platform
-LangGraph Studio
-AG-UI
-CopilotKit
-Mastra
-Pydantic AI
-smolagents
-Browser Use
-Stagehand
-Vercel AI SDK 5
-TanStack Start
-React Router 7
-React 19
-Next.js 15
-Next.js 16
-Vite 7
-Rolldown
+Trae
+OpenCode
+Gemini CLI
+GitHub Copilot
+Cline
+Devin
+Lovable
+Bolt
+Antigravity
+Dify
+n8n
+LangChain
+LangGraph
+CrewAI
+Hugging Face
+Ollama
+llama.cpp
+vLLM
+SGLang
+ComfyUI
+GGUF
+MCP
+模型上下文协议
+MCP Server
+MCP Client
+MCP Apps
+skill
+Agent Skills
+技能
 uv
-llama.cpp-omni
+Vercel
+Supabase
+Obsidian
+Notion

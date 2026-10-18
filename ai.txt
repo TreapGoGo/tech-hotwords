@@ -1,61 +1,53 @@
-# 2025 年以来发布或在开发者社区广泛使用的科技名词
-DeepSeek-R1
-DeepSeek-R1-Zero
-DeepSeek-V3-0324
-DeepSeek-R1-0528
-DeepSeek-V3.1
-DeepSeek-V3.2
-DeepSeek-OCR
-Qwen3
-Qwen3-0.6B
-Qwen3-1.7B
-Qwen3-4B
-Qwen3-8B
-Qwen3-14B
-Qwen3-30B-A3B
-Qwen3-32B
-Qwen3-235B-A22B
-Qwen3-Coder
-Qwen3-Coder-30B-A3B-Instruct
-Qwen3-Coder-480B-A35B-Instruct
-Qwen3-Next-80B-A3B
-Qwen3-VL
-Qwen3-Embedding
-Qwen3-Reranker
-Qwen2.5-Omni
-GPT-4.1
-GPT-4.1 mini
-GPT-4.1 nano
-GPT-4.5
-GPT-5
-GPT-5 mini
-GPT-5 nano
-o3
-o4-mini
-gpt-oss-20b
-gpt-oss-120b
-Claude 3.7 Sonnet
-Claude Sonnet 4
-Claude Opus 4
-Claude Opus 4.1
-Claude Sonnet 4.5
-Claude Haiku 4.5
-Gemini 2.5 Pro
-Gemini 2.5 Flash
-Gemini 2.5 Flash-Lite
-Gemma 3
-Gemma 3n
-Llama 4 Scout
-Llama 4 Maverick
-Kimi K2
-Kimi K2 Thinking
-GLM-4.5
-GLM-4.5-Air
-GLM-4.6
-MiniMax-M1
-MiniMax-M2
-Hunyuan-A13B
-Wan2.1
-Wan2.2
-Seed-OSS-36B
-MiniCPM-o 4.5
+# AI 模型、产品与人物；每行一个写法，来源与别称分组见 lexicon.tsv
+OpenAI
+ChatGPT
+GPT
+GPT-6 Astra
+GPT-6.1 Sol
+GPT-6 Luna
+GPT-Live
+Anthropic
+Claude
+Claude Opus
+Claude Sonnet
+Claude Haiku
+Claude Mythos
+Claude Fable
+Gemini
+Gemini 4 Argon
+Gemma
+Nano Banana
+Veo
+Lyria
+DeepSeek
+深度求索
+DeepSeek V4.1
+Qwen
+千问
+Qwen-Image
+Wan
+万相
+GLM
+GLM-5.3
+MiniMax
+MiniMax M3
+MiniMax H3
+Kimi
+Kimi K3
+MiniCPM
+豆包
+Grok
+Llama
+FLUX
+LTX
+Perplexity
+NotebookLM
+Sam Altman
+Dario Amodei
+Andrej Karpathy
+Karpathy
+Yann LeCun
+杨立昆
+Jensen Huang
+黄仁勋
+梁文锋

@@ -1,60 +1,32 @@
-# 2025 年以来发布或在开发者社区广泛使用的科技名词
-GeForce RTX 5090
-GeForce RTX 5080
-GeForce RTX 5070 Ti
-GeForce RTX 5070
-GeForce RTX 5060 Ti
-GeForce RTX 5060
-GeForce RTX 5050
-GeForce RTX 5090 Laptop GPU
-GeForce RTX 5080 Laptop GPU
-GeForce RTX 5070 Ti Laptop GPU
-GeForce RTX 5070 Laptop GPU
-GeForce RTX 5060 Laptop GPU
-GeForce RTX 5050 Laptop GPU
-RTX PRO 6000 Blackwell
-RTX PRO 5000 Blackwell
-RTX PRO 4500 Blackwell
-RTX PRO 4000 Blackwell
-RTX PRO 2000 Blackwell
-RTX PRO 6000 Blackwell Max-Q
-RTX PRO 6000 Blackwell Server Edition
-NVIDIA DGX Spark
-NVIDIA DGX Station
-NVIDIA GB10
-NVIDIA GB300
-NVIDIA B300
-NVIDIA GB200 NVL72
-Radeon RX 9070 XT
-Radeon RX 9070
-Radeon RX 9060 XT
-Radeon AI PRO R9700
-Ryzen 9 9950X3D
-Ryzen 9 9900X3D
-Ryzen AI Max+ 395
-Ryzen AI Max 390
-Ryzen AI Max 385
-Ryzen AI 9 HX 370
-Ryzen AI 7 350
-Ryzen AI 5 340
-Core Ultra 9 285HX
-Core Ultra 7 275HX
-Core Ultra 7 265HX
-Core Ultra 5 245HX
-Core Ultra 9 285H
-Core Ultra 7 265H
-Core Ultra 7 255H
-Core Ultra 5 235H
-Apple M4 Max
-Apple M4 Pro
-Apple M3 Ultra
-Apple M4
-Apple M5
-Snapdragon X Elite
-Snapdragon X Plus
-Snapdragon X2 Elite
-Snapdragon X2 Elite Extreme
-Jetson AGX Thor
-NVIDIA T5000
-AMD Instinct MI350X
-AMD Instinct MI355X
+# 芯片、算力与机器人；每行一个写法，来源与别称分组见 lexicon.tsv
+NVIDIA
+英伟达
+AMD
+Intel
+英特尔
+Qualcomm
+高通
+CUDA
+ROCm
+GPU
+NPU
+TPU
+HBM
+NVLink
+Blackwell
+Vera Rubin
+DGX Spark
+RTX Spark
+RTX
+Radeon
+Ryzen
+锐龙
+EPYC
+霄龙
+Instinct
+Snapdragon
+Apple silicon
+Jetson
+Unitree
+宇树
+宇树科技

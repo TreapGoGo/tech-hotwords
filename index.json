@@ -1,20 +1,26 @@
 [
   {
     "file": "ai.txt",
-    "name": "AI 模型与产品",
-    "count": 60,
-    "updated": "2026-10-19"
+    "name": "AI 模型、产品与人物",
+    "count": 52,
+    "updated": "2026-10-18"
   },
   {
     "file": "dev.txt",
     "name": "开发工具与协议",
-    "count": 60,
-    "updated": "2026-10-19"
+    "count": 46,
+    "updated": "2026-10-18"
   },
   {
     "file": "hardware.txt",
-    "name": "芯片与硬件",
-    "count": 59,
-    "updated": "2026-10-19"
+    "name": "芯片、算力与机器人",
+    "count": 31,
+    "updated": "2026-10-18"
+  },
+  {
+    "file": "topics.txt",
+    "name": "AI 概念与创投话题",
+    "count": 82,
+    "updated": "2026-10-18"
   }
 ]
